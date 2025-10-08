@@ -26,7 +26,7 @@ até a criação de dashboards interativos, relatórios de insights e modelos pr
         />
     </a>
  <!-- LinkedIn -->
-    <a href="www.linkedin.com/in/luis-pedro-silva-pereira-aa553a376" target="_blank">
+    <a href="www.linkedin.com/in/luis-pedro-silva-pereira-aa553a376/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu perfil no LinkedIn" 
