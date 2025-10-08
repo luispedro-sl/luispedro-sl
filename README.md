@@ -10,12 +10,13 @@ até a criação de dashboards interativos, relatórios de insights e modelos pr
 
 <p align="left">
     <!-- GitHub -->
-    <a href="https://github.com/luispedro-sl?tab=followers" target="_blank">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/luispedro-sl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+   <a href="https://github.com/luispedro-sl" target="_blank">
+    <img 
+        alt="Seguir" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/badge/-Seguir-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"
+    />
+</a>
     </a>
 <!-- Kaggle -->
     <a href="https://www.kaggle.com/luispedro2004" target="_blank">
