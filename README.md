@@ -41,7 +41,6 @@ até a criação de dashboards interativos, relatórios de insights e modelos pr
 ### 🤖 Tecnologias e Linguagens
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
 <img align="left" alt="Numpy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
@@ -65,7 +64,7 @@ até a criação de dashboards interativos, relatórios de insights e modelos pr
 
 ### ⚡ Competências Principais
 
-- **Análise de Dados**: Limpeza, transformação e exploração de dados com Python, R e SQL  
+- **Análise de Dados**: Limpeza, transformação e exploração de dados com Python e SQL  
 - **Visualização de Dados**: Gráficos interativos e dashboards em Power BI e Matplotlib  
 - **Machine Learning**: Modelos de regressão, classificação e clustering; validação e deploy de modelos  
 - **Estatística Aplicada**: Inferência, testes de hipóteses e análise exploratória  
