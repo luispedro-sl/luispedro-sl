@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Luis Pedro Silva Pereira
 
-**`Estudante de Ciência da Computação | Data Science & Data Analytcs`**
+**`Estudante de Matemática| Data Science & Data Analytcs`**
 
 Sou estudante de **Matemática** com foco em aplicações matemáticas a soluções tecnológicas, principalmente, **Ciência de Dados, Machine Learning e Análise de Dados**.  
 Tenho experiência com **Python, R, SQL, Power BI e aplicação de Estatística Avançada**, realizando desde  testes de hipóteses, limpeza e pré-processamento de dados, análises exploratórias
