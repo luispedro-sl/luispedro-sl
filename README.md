@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação | Data Science & Data Analytcs`**
 
-Sou estudante de **Ciência da Computação** com foco em aplicações matemáticas a soluções tecnológicas, principalmente, **Ciência de Dados, Machine Learning e Análise de Dados**.  
+Sou estudante de **Matemática** com foco em aplicações matemáticas a soluções tecnológicas, principalmente, **Ciência de Dados, Machine Learning e Análise de Dados**.  
 Tenho experiência com **Python, R, SQL, Power BI e aplicação de Estatística Avançada**, realizando desde  testes de hipóteses, limpeza e pré-processamento de dados, análises exploratórias
 até a criação de dashboards interativos, relatórios de insights e modelos preditivos - atualmente estudo **Machine Learning com Scikit-learn**, desenvolvendo modelos de regressão, classificação e clustering para gerar insights acionáveis -.
 
